@@ -14,5 +14,5 @@ $$ K={K_H\over M} $$
 ### Isotherms of Xe and Kr on UTSA-20 (ONIXOZ_clean)                                                                                                         
 ![UTSA-20](/Figures/UTSA-20_iso.png "UTSA-20")
 #### :arrow_up: GCMC results and fitted by Langmuir model.                     
-![UTSA-20](/Figures/UTSA-20_iso.png "UTSA-20")
+![UTSA-20](/Figures/UTSA-20_stru.png "UTSA-20")
 #### :arrow_up: Structure of UTSA-20
