@@ -7,5 +7,5 @@ $$ σ={βεe^{-βU_0}*P\over 1+{βεe^{-βU_0}*P\over M}} $$
 $$ K_H=βεe^{-βU_0} $$
 ### 2:
 $$ K={βεe^{-βU_0}\over M} $$  
-## so over
+## so :arrow_double_down:
 $$ K={K_H\over M} $$                
