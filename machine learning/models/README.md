@@ -6,3 +6,7 @@ For Xe-M of GBR model, since it is so big, please download from :pencil2: Releas
 ![Xe](/Figures/Xe.jpg "Xe")
 ## GBR of Kr:                   
 ![Kr](/Figures/Kr.jpg "Kr")
+
+## Relative importance of features of the models predicting M of Xe and Kr Langmuir parameters obtained from GBR algorithm.
+
+![im](/Figures/imp.png "im")
