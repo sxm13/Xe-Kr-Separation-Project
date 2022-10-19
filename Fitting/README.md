@@ -1,1 +1,1 @@
-## Langmuir model: $ σ=M(\ast ): KP/(1+KP)$
+## Langmuir model: $ σ=M(\ast ): KP/(1+KP),. $
