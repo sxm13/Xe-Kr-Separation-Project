@@ -1,2 +1,2 @@
 ## Comparation of exp and top materials.                                
-![Last](/Figures/top_exp.png "Last")
+![Last](/Figures/exp_top.png "Last")
