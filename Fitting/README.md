@@ -18,3 +18,5 @@ $$ K={K_H\over M} $$
 ![UTSA-20](/Figures/UTSA-20_stru.png "UTSA-20")
 #### :arrow_up: Structure of UTSA-20
  
+![cor](/Figures/cor.png "cor")          
+#### :arrow_up: Correlation plots of Xe/Kr material characteristics and Langmuir parameters based on data selected for ML. The color bar represents the magnitude of the SRCC correlation coefficient.
