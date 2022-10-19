@@ -4,8 +4,8 @@
 $$ M=PV*ρ_l $$                     
 ##### :m: PV is the Helium pore volume. ${ρ_l}$ is the liquid density of adsorbate. We calculated PV by Zeo++ using He (radius=1.32 Å) (set number of MC samples per atom is 5000) as the probe molecule.
 ## By accessible surface area:                  
-$$ S=Σ*N_m $$
-N_m is the SL of the monolayer. Σ is the area occupied by per mol of adsorbed molecules if are spread into a monolayer, which can be calculated as follows,
+$$ S=Σ*N_m $$                                          
+##### :m: N_m is the SL of the monolayer. Σ is the area occupied by per mol of adsorbed molecules if are spread into a monolayer, which can be calculated as follows,
 (Σ=N_A∙ω_m)
 N_A is Avogadro constant (6.0221*10^23). ω_m is the area occupied by per adsorbate molecule. The molecules of adsorption are arranged in a hexagonal dense stacking pattern has been demonstrated1, so that
 (ω_m=3^(1/2)/2^(2/3)  (M/(ρN_A ))^(2/3))
