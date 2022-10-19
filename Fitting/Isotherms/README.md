@@ -6,7 +6,7 @@
 ### Cycles: 10000+20000          
 
 ------
-Adsorbate | Epsilon / K | Sigma / Å
-Xenon     | 167.04      | 3.92
-Krypton   | 110.69      | 3.69
+Adsorbate | Epsilon / K | Sigma / Å                                                       
+Xenon     | 167.04      | 3.92                                            
+Krypton   | 110.69      | 3.69                                   
 ------
