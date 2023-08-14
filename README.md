@@ -1,7 +1,6 @@
-# XeKrSeparationProject
-## :point_right:Ref:
-Data, Models, Codes of Xe/Kr Separation Project
-## Details of this work:                       
+# Xe/Kr Separation Project
+                     
 ![Workflow of this work](/Figures/Scheme_1.jpg "workflow")
 
-:trollface: 
+## Contact
+Prof. Chung: drygchung@gmail.com
