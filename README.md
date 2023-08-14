@@ -1,4 +1,4 @@
-# Xe/Kr Separation Project
+# HMulti-scale computational screening of metal-organic frameworks for Xe/Kr separation
                      
 ![Workflow of this work](/Figures/workflow.png "workflow")
 
