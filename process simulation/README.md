@@ -4,7 +4,13 @@
 
 ![Workflow of this work](/Figures/IVSA.png)
 
+### Installation of Dependency
 
+- pyiast 1.4.3
+- Python	3.8.3
+- NumPy	1.21.4
+- pandas	1.3.4
+- SciPy	1.6.3
 
 ## High-Fidelity Vacuum Swing Adsorption
 
