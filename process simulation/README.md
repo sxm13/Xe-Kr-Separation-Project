@@ -2,4 +2,4 @@
 
 ## Ideal Vacuum Swing aAdsorption
 
-
+![Workflow of this work](/Figures/IVSA.png "workflow")
