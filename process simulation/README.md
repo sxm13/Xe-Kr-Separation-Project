@@ -12,3 +12,4 @@
 
 - Develoed by [PEESE group](https://github.com/PEESEgroup/PSA)
 - cite 	Mol. Syst. Des. Eng., 2020,5, 1205-1218
+- The parameters used in Xe/Kr project can be found in SI of Xe/Kr paper
