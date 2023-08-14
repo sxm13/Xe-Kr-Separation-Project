@@ -2,10 +2,10 @@
 
 ## Ideal Vacuum Swing Adsorption
 
-![Workflow of this work](/Figures/IVSA.png "workflow")
+![Workflow of this work](/Figures/IVSA.png)
 
 
 
 ## High-Fidelity Vacuum Swing Adsorption
 
-![Workflow of this work](/Figures/HF.png "workflow")
+![Workflow of this work](/Figures/HFVSA.png)
