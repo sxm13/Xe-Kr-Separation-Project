@@ -22,4 +22,5 @@
 
 ## GCMC simulation
 
+There is an example simulation input file
 Force field parameters can be found in Supporting Information of Xe/Kr literature
