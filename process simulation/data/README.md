@@ -1,3 +1,3 @@
 # IVSA Result        
 
-![Result1](/Figure/IVSA_result.jpg)
+![Result1](/Figures/IVSA_result.jpg)
