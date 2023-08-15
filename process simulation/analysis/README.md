@@ -1,3 +1,3 @@
 # Ranks comparasion
 
-![Ranks](/Figures/rans.png)
+![Ranks](/Figures/ranks.png)
