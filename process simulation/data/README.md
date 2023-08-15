@@ -7,7 +7,7 @@
 
 # HFVSA Result        
 
-![Result1](/Figures/HFVSA_result.jpg)
+![Result2](/Figures/HFVSA_result.jpg)
 
 ### Xe purity and recovery results of 15 Xe-selective MOFs from high-fidelity VSA process simulation and optimization. Dashed grey lines are 95 and 99% Xe recovery lines.
 
