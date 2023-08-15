@@ -1,3 +1,3 @@
 # IVSA Result        
 
-![Result1](/process%simulation/data/IVSA_result.jpg)
+![Result1](/Figure/IVSA_result.jpg)
