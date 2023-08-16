@@ -3,10 +3,10 @@
 ![Workflow of this work](/Figures/workflow.png "workflow")
 
 ### Contact
-Prof. Chung: drygchung@gmail.com
-
+Prof. Chung: drygchung@gmail.com                                               
+GuobinZhao: sxmzhaogb@gmai.com            
 ### Cite as
-A, B, B, DOI: 
+Guobin Zhao, Yu Chen and  , DOI: 
 
 ## Introduction
 
