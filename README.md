@@ -4,7 +4,7 @@
 
 ### Contact
 Prof. Chung: drygchung@gmail.com                                               
-GuobinZhao: sxmzhaogb@gmai.com            
+Guobin Zhao: sxmzhaogb@gmai.com            
 ### Cite as
 Guobin Zhao, Yu Chen and Yongchul G. Chung, DOI: 
 
