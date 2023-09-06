@@ -7,7 +7,7 @@ Prof. Chung: drygchung@gmail.com
 Guobin Zhao: sxmzhaogb@gmai.com            
 Yu Chen:     yuchen.drake@gmail.com                      
 ### Cite as
-Guobin Zhao, Yu Chen and Yongchul G. Chung, DOI: 
+Guobin Zhao, Yu Chen and Yongchul G. Chung. **High-Throughput, Multiscale Computational Screening of Metal–Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters.** *Industrial & Engineering Chemistry Research* DOI: 10.1021/acs.iecr.3c02211.
 
 ## Introduction
 
