@@ -16,3 +16,7 @@ The Xe/Kr separation program contain 3 parts:
 - Machine learning (Train models, Evaluation models, Features analysis, Predict targets)
 - Ideal VSA and High-fidelity VSA simualtion (High-througput ~6,500 MOFs & 15 MOFs)
 
+## Data download                          
+
+For all csv data, code and models, you can download from [zenodo](https://zenodo.org/record/8312801)            
+ZHAO GUOBIN, & Chung Yongchul G. (2023). Multiscale high-throughput computational screening of nanoporous materials for Xe/Kr adsorption separation. https://doi.org/10.5281/zenodo.8312801             
