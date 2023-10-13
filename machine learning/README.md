@@ -4,7 +4,8 @@
 ### features analysis
 
 # data
-### usde for training models (Xe/Kr)
+### Dataset used for training models (Xe/Kr)
+
 
 # models
 ### GBR models (Xe/Kr)
