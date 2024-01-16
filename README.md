@@ -5,7 +5,8 @@
 ### Contact
 Prof. Chung: drygchung@gmail.com                                               
 Guobin Zhao: sxmzhaogb@gmai.com            
-Yu Chen:     yuchen.drake@gmail.com                      
+Yu Chen:     yuchen.drake@gmail.com        
+
 **Group:**   [Molecular Thermodynamics & Advance Processes Laboratory](https://sites.google.com/view/mtap-lab/home?authuser=0)                                
 
 ### Cite as
