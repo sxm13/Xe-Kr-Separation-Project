@@ -10,7 +10,7 @@ Yu Chen:     yuchen.drake@gmail.com
 **Group:**   [Molecular Thermodynamics & Advance Processes Laboratory](https://sites.google.com/view/mtap-lab/home?authuser=0)                                
 
 ### Cite as
-Guobin Zhao, Yu Chen and Yongchul G. Chung. **High-Throughput, Multiscale Computational Screening of Metal–Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters.** *Industrial & Engineering Chemistry Research* DOI: 10.1021/acs.iecr.3c02211.
+Guobin Zhao, Yu Chen and Yongchul G. Chung. **High-Throughput, Multiscale Computational Screening of Metal–Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters.** *Industrial & Engineering Chemistry Research* DOI: 10.1021/acs.iecr.3c02211. [read paper](https://pubs.acs.org/doi/full/10.1021/acs.iecr.3c02211)                                    
 
 ## Introduction
 
