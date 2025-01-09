@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>e579f298-4a80-11e4-9553-005056977bd0</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <es_ES>Collection</es_ES>
+    <es_MX>Collection</es_MX>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>NGPM -- A NSGA-II Program in Matlab v1.4</name>
+  <author>Song Lin</author>
+  <version>1.6.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/31166/versions/7/download/zip?src=addons_ml_desktop_install&amp;profile_id=19931967&amp;license=40788303&amp;release_family=R2022a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/e579f298-4a80-11e4-9553-005056977bd0/1.6.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/submissions/31166/versions/7/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/e579f298-4a80-11e4-9553-005056977bd0/db884574-bea7-de39-1188-651592585c7e/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
