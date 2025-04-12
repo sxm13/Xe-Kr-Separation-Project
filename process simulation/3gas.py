@@ -100,13 +100,12 @@ for M_list, h_list, dH, nam in zip(M_list_all.values, h_list_all.values, H_list_
     Rec_list = []
     x_list = []
     leading_index = []
-    rec_tmp, l_ind, x_tmp = None, None, None  # 初始化变量
+    rec_tmp, l_ind, x_tmp = None, None, None 
     
-    # 循环尝试不同的x_guess直到一个成功或所有尝试都失败
     for x_guess in x_guesses:
         try:
             rec_tmp, l_ind, x_tmp = rec(x_guess, 1, p, M_list, h_list, dH, y_feed_in, T_feed_in)
-            break  # 如果成功获取结果，跳出循环
+            break 
         except Exception as e:
             print(f"Failed for {nam} at x_guess={x_guess} with error: {e}")
     
