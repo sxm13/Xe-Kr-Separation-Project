@@ -1,7 +1,6 @@
 #!/bin/bash
 
-#SBATCH --partition=intel-gold
-##SBATCH -w SG12
+#SBATCH --partition=
 #SBATCH --nodes=1
 #SBATCH --job-name=test
 #SBATCH --export=ALL
